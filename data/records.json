@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "institution": "school-a",
+      "activity": "workshop-x",
+      "measure": "scale-1",
+      "phase": "before",
+      "score": 42,
+      "cohort_ref": "g-1"
+    },
+    {
+      "institution": "school-a",
+      "activity": "workshop-x",
+      "measure": "scale-1",
+      "phase": "after",
+      "score": 51,
+      "cohort_ref": "g-1"
+    },
+    {
+      "institution": "school-b",
+      "activity": "workshop-y",
+      "measure": "scale-2",
+      "phase": "after",
+      "score": 4,
+      "cohort_ref": "g-2"
+    },
+    {
+      "institution": "school-b",
+      "activity": "workshop-y",
+      "measure": "attendance",
+      "phase": "during",
+      "score": null,
+      "cohort_ref": "g-2"
+    }
+  ]
+}

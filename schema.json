@@ -1,0 +1,19 @@
+{
+  "collection": "records.json",
+  "record_fields": [
+    "institution",
+    "activity",
+    "measure",
+    "phase",
+    "score",
+    "cohort_ref"
+  ],
+  "example_record": {
+    "institution": "school-a",
+    "activity": "workshop-x",
+    "measure": "scale-1",
+    "phase": "before",
+    "score": 42,
+    "cohort_ref": "g-1"
+  }
+}
